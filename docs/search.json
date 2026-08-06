@@ -1,0 +1,242 @@
+[
+  {
+    "objectID": "programa.html",
+    "href": "programa.html",
+    "title": "Programa da Disciplina",
+    "section": "",
+    "text": "Aprofundar a formação do estudante em Ciência de Dados aplicada à Administração, capacitando-o a desenvolver análises reproduzíveis em ambiente computacional moderno, com uso de métodos introdutórios de modelagem estatística e preditiva e para apoiar decisões.",
+    "crumbs": [
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#objetivo-geral",
+    "href": "programa.html#objetivo-geral",
+    "title": "Programa da Disciplina",
+    "section": "",
+    "text": "Aprofundar a formação do estudante em Ciência de Dados aplicada à Administração, capacitando-o a desenvolver análises reproduzíveis em ambiente computacional moderno, com uso de métodos introdutórios de modelagem estatística e preditiva e para apoiar decisões.",
+    "crumbs": [
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#objetivos-específicos",
+    "href": "programa.html#objetivos-específicos",
+    "title": "Programa da Disciplina",
+    "section": "Objetivos Específicos",
+    "text": "Objetivos Específicos\n\nConsolidar o uso da linguagem R, RStudio, Git/GitHub e do sistema Quarto como suporte à realização de análises reproduzíveis aplicadas a problemas da Administração.\nCapacitar o estudante a elaborar relatórios quato analíticos curtos, integrando dados, código, visualizações, interpretação e recomendações.\nConsolidar os procedimentos de análise exploratória de dados numérica e gráfica.\nApresentar procedimentos introdutórias de inferência estatística, incluindo comparação entre grupos.\nIntroduzir a regressão linear como ferramenta para descrição de relações entre variáveis, apoio à previsão e controle estatístico de fatores observáveis.\nIntroduizir modelos de previsão de séries temporais como ferramenta de apoio à decisão.\nCapacitar o estudante a construir, interpretar e comparar modelos de aprendizagem supervisionados e não supervisionados introdutórios, utilizando medidas simples de desempenho e procedimentos básicos de validação.",
+    "crumbs": [
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#ementa",
+    "href": "programa.html#ementa",
+    "title": "Programa da Disciplina",
+    "section": "Ementa",
+    "text": "Ementa\nAmbiente computacional: R, RStudio, Git, GitHub e Quarto. Análise Exploratória de Dados: Numérica e Gráfica. Modelagem Estatística Básica. Regressão Linear. Modelos de Previsão de Séries Temporais. Fundamentos de aprendizagem supervisionada e não supervisionada.",
+    "crumbs": [
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#bibliografia-básica",
+    "href": "programa.html#bibliografia-básica",
+    "title": "Programa da Disciplina",
+    "section": "Bibliografia Básica",
+    "text": "Bibliografia Básica\nIRIZARRY, Rafael A. Introduction to Data Science: Statistics and Prediction Algorithms Through Case Studies. 2nd. ed. CRC Press, 2025. Disponível em: Introduction to Data Science: Statistics and Prediction Algorithms Through Case Studie\nIRIZARRY, Rafael A. Introduction to Data Science: Data Wrangling and Visualization with R. 2nd. ed. CRC Press, 2025. Disponível em: Introduction to Data Science: Data Wrangling and Visualization with R\nHYNDMAN, Rob J.; ATHANASOPOULOS, George. Forecasting: Principles and Practice. 3rd. ed. Melbourne: OTexts, 2021. Disponível em: Forecasting: Principles and Practice",
+    "crumbs": [
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#bibliografia-complementar",
+    "href": "programa.html#bibliografia-complementar",
+    "title": "Programa da Disciplina",
+    "section": "Bibliografia Complementar",
+    "text": "Bibliografia Complementar\nWICKHAM, Hadley; ÇETINKAYA-RUNDEL, Mine; GROLEMUND, Garrett. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. 2nd. ed. 2023. O’Reilly Media, Inc. Disponível em: R for Data Science. Tradução em Português disponível em: R para Ciência de Dados.\nSILVA, Washington Santos da. Introdução à Ciência de Dados para Administração. 2026. Livro digital em desenvolvimento. Disponível em: https://washingtonsilva.github.io/livro_icd_adm_bacharelado/.\nISMAY, Chester; KIM, Albert Y. Statistical Inference via Data Science: A ModernDive into R and the Tidyverse. Boca Raton: CRC Press, 2021.\nTRIOLA, Mário F. Introdução à Estatística. 10 edição. Rio de Janeiro: LTC, 2008. Disponível na biblioteca do campus.\nDEVORE, J. L. Probabilidade e Estatística para Engenharia e Ciências. São Paulo: Thomson, 2006. Disponível na biblioteca do campus.\nTutoriais Online:\nRStudio: Ambiente de Desenvolvimento Integrado para a Linguagem R\nIntrodução prática à linguagem R com o tidyverse\nControle de Versão com Git e GitHub\nQuarto: Um Sistema de Publicação Técnica e Científica\nDocumentação do Sistema Quarto",
+    "crumbs": [
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#avaliação",
+    "href": "programa.html#avaliação",
+    "title": "Programa da Disciplina",
+    "section": "Avaliação",
+    "text": "Avaliação\nO planejamento da distribuição dos pontos referentes às avaliações será realizado da seguinte forma:\n\nAvaliação 1 (33 pontos) - Atividades práticas semanais\nAvaliação 2 (33 pontos) - Exame intermediário\nAvaliação 3 (34 pontos) - Exame final\n\nPara aprovação, é necessária a obtenção de pelo menos 60 pontos. Esse planejamento poderá alterado conforme o rendimento da turma.",
+    "crumbs": [
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#conteúdo-programático",
+    "href": "programa.html#conteúdo-programático",
+    "title": "Programa da Disciplina",
+    "section": "Conteúdo Programático",
+    "text": "Conteúdo Programático\n\nAmbiente Computacional: R, RStudio, Git, GitHub e Quarto\nAnálise Exploratória de Dados\nModelagem Estatística Básica\nRegressão Linear\nRegressão Linear\nModelos de Previsão de Séries Temporais\nFundamentos de aprendizagem supervisionada e não supervisionada",
+    "crumbs": [
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#recursos-didáticos-e-materiais-de-estudo",
+    "href": "programa.html#recursos-didáticos-e-materiais-de-estudo",
+    "title": "Programa da Disciplina",
+    "section": "Recursos Didáticos e Materiais de Estudo",
+    "text": "Recursos Didáticos e Materiais de Estudo\nEntre os recursos didáticos utilizados na disciplina estão:\n\nMateriais Primários para Estudo:\n\nBibliografia recomendada.\nSlides e notas de aula.\n\nAmbientes:\n\nSite da disciplina com links para slides, dados, bibliografia, entre outros.\nSistema Acadêmico (SUAP) e GitHub para envio de atividades avaliativas.",
+    "crumbs": [
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#metodologia-de-ensino",
+    "href": "programa.html#metodologia-de-ensino",
+    "title": "Programa da Disciplina",
+    "section": "Metodologia de Ensino",
+    "text": "Metodologia de Ensino\nA disciplina será conduzida em formato hands-on, com ênfase em aprendizagem ativa e na resolução de problemas aplicados à Administração. As atividades serão organizadas de modo que os estudantes compreendam e pratiquem sistematicamente etapas essenciais de projetos de análise quantitativa desde a estruturação de um projeto, preparação dos dados, exploração, visualização, modelagem, interpretação e comunicação dos resultados.",
+    "crumbs": [
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#plano-de-aulas",
+    "href": "programa.html#plano-de-aulas",
+    "title": "Programa da Disciplina",
+    "section": "Plano de Aulas",
+    "text": "Plano de Aulas\nO cronograma a seguir é apenas um planejamento, portanto, pode ser alterado conforme o andamento da disciplina .\n\n\n\n\n\n\n\n\nSemana\nPeríodo\nTópico da semana\n\n\n\n\n1\n06/08 – 07/08\nApresentação da Disciplina\n\n\n2\n13/08 – 14/08\nAmbiente Computacional\n\n\n3\n20/08 – 21/08\nAmbiente Computacional\n\n\n4\n27/08 – 28/08\nAmbiente Computacional\n\n\n5\n03/09 – 04/09\nAmbiente Computacional\n\n\n6\n10/09 – 11/09\nAnálise Exploratória de Dados\n\n\n7\n17/09 – 18/09\nAnálise Exploratória de Dados\n\n\n8\n24/09 – 25/09\nAnálise Exploratória de Dados\n\n\n9\n01/10 – 02/10\nAvaliação 2\n\n\n10\n08/10 – 09/10\nModelagem Estatística Básica\n\n\n11\n22/10 – 23/10\nModelagem Estatística Básica\n\n\n12\nx – 30/10\nRegressão Linear\n\n\n13\n05/11 – 06/11\nRegressão Linear\n\n\n14\n12/11 – 13/11\nModelos de Previsão de Séries Temporais\n\n\n15\n19/06 – x\nModelos de Previsão de Séries Temporais\n\n\n16\n26/11 – 27/11\nFundamentos de aprendizagem supervisionada e não supervisionada\n\n\n17\n03/12 – 04/12\nFundamentos de aprendizagem supervisionada e não supervisionada\n\n\n18\n10/12 – 11/12\nAvaliação 3\n\n\n19\n17/12 – 18/12\nEncerramento",
+    "crumbs": [
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "programa.html#recuperação",
+    "href": "programa.html#recuperação",
+    "title": "Programa da Disciplina",
+    "section": "Recuperação",
+    "text": "Recuperação\nConforme o regulamento dos cursos de graduação do IFMG.",
+    "crumbs": [
+      "Programa da Disciplina"
+    ]
+  },
+  {
+    "objectID": "cronograma.html",
+    "href": "cronograma.html",
+    "title": "Cronograma",
+    "section": "",
+    "text": "Aqui estão o cronograma e os materiais de cada aula, como slides, dados e leituras.\n\n\n\n\n\n\nDicaComo navegar pelos slides\n\n\n\nOs slides são interativos e foram produzidos em revealjs.\nAo abrir um arquivo de slides, utilize:\n\nSetas (← →): avançar e voltar.\nF: tela cheia.\nO: visão geral dos slides.\nEsc: sair da visão geral.\nEm dispositivos móveis, deslize para os lados.\n\nOs slides abrem em uma nova aba do navegador.\n\n\n\nSemana 1 (06/08/26)\n\nSlides:",
+    "crumbs": [
+      "Cronograma"
+    ]
+  },
+  {
+    "objectID": "ambiente_computacional.html",
+    "href": "ambiente_computacional.html",
+    "title": "Preparação do ambiente computacional",
+    "section": "",
+    "text": "Conclua este roteiro de instalação e configuração para preparar o seu computador pessoal para as atividades da disciplina. Os computadores do Laboratório usado na disciplina já possuem os programas necessários instalados.\n\n\n\n\n\n\nNotaPlataforma adotada\n\n\n\nAs etapas detalhadas desta página foram preparadas para Windows. Usuários de macOS ou Linux devem utilizar os instaladores disponíveis nas páginas oficiais indicadas nas seções de R, RStudio, Quarto e Git. Nesses sistemas, use o terminal padrão em vez do Git Bash.\n\n\n\nCaso não tenha, crie uma conta gratuita no GitHub.\nInstale R 4.6.1 e atualize RStudio, Quarto e Git.\nVerifique a identidade configurada no Git e o Git Bash como terminal do RStudio. Ajuste apenas o que for necessário.\nApós concluir a instalação e a configuração, siga os tutoriais básicos indicados no Programa da Disciplina, começando por R e tidyverse.\nDepois de concluir o tutorial de Git e GitHub, retorne a esta página e faça a verificação final do ambiente.\n\n\n\n\n\n\n\nNotaRepositório público\n\n\n\nNão envie senhas, chaves de acesso, dados pessoais de terceiros ou dados restritos ao repositório. Use apenas materiais autorizados para a disciplina.",
+    "crumbs": [
+      "Ambiente computacional"
+    ]
+  },
+  {
+    "objectID": "ambiente_computacional.html#sec-preparacao",
+    "href": "ambiente_computacional.html#sec-preparacao",
+    "title": "Preparação do ambiente computacional",
+    "section": "",
+    "text": "Conclua este roteiro de instalação e configuração para preparar o seu computador pessoal para as atividades da disciplina. Os computadores do Laboratório usado na disciplina já possuem os programas necessários instalados.\n\n\n\n\n\n\nNotaPlataforma adotada\n\n\n\nAs etapas detalhadas desta página foram preparadas para Windows. Usuários de macOS ou Linux devem utilizar os instaladores disponíveis nas páginas oficiais indicadas nas seções de R, RStudio, Quarto e Git. Nesses sistemas, use o terminal padrão em vez do Git Bash.\n\n\n\nCaso não tenha, crie uma conta gratuita no GitHub.\nInstale R 4.6.1 e atualize RStudio, Quarto e Git.\nVerifique a identidade configurada no Git e o Git Bash como terminal do RStudio. Ajuste apenas o que for necessário.\nApós concluir a instalação e a configuração, siga os tutoriais básicos indicados no Programa da Disciplina, começando por R e tidyverse.\nDepois de concluir o tutorial de Git e GitHub, retorne a esta página e faça a verificação final do ambiente.\n\n\n\n\n\n\n\nNotaRepositório público\n\n\n\nNão envie senhas, chaves de acesso, dados pessoais de terceiros ou dados restritos ao repositório. Use apenas materiais autorizados para a disciplina.",
+    "crumbs": [
+      "Ambiente computacional"
+    ]
+  },
+  {
+    "objectID": "ambiente_computacional.html#instalação-dos-programas",
+    "href": "ambiente_computacional.html#instalação-dos-programas",
+    "title": "Preparação do ambiente computacional",
+    "section": "Instalação dos programas",
+    "text": "Instalação dos programas\n\nLinguagem R\n\n\n\n\n\n\nDicaInstalar R 4.6.1\n\n\n\n\nAcesse CRAN.\nClique em Download R for Windows e, na página seguinte, em base.\nClique em Download R-4.6.1 for Windows.\nApós o download, execute o instalador e aceite as opções padrão até a instalação ser concluída. Mesmo que você já use uma versão anterior de R, instale o R 4.6.1.\n\n\n\n\n\nRStudio\n\n\n\n\n\n\nDicaInstalar ou atualizar o RStudio Desktop\n\n\n\n\nAcesse a página de download do RStudio.\nNa seção 2: Install RStudio, clique em Download RStudio Desktop for Windows.\nApós o download, execute o instalador e avance até a instalação ser concluída. Se o RStudio já estiver instalado, esse procedimento o atualizará.\n\n\n\n\n\nSistema Quarto\n\n\n\n\n\n\nDicaInstalar ou atualizar o Quarto CLI\n\n\n\n\nAcesse a página de download do Quarto.\nBaixe o instalador de Quarto CLI para Windows.\nExecute o instalador e avance até a instalação ser concluída. Se o Quarto já estiver instalado, esse procedimento o atualizará.\n\n\n\n\n\nTinyTeX\n\n\n\n\n\n\nImportanteInstalar o TinyTeX quando uma atividade exigir PDF\n\n\n\nTinyTeX é a distribuição LaTeX recomendada para gerar PDF a partir de documentos Quarto. Ele só é necessário para gerar PDF localmente.\nA disciplina avisará antes da primeira atividade que exigir PDF. Instale-o depois de instalar o Quarto, com antecedência em relação a essa atividade.\nSe ainda não tiver o TinyTeX, abra a aba Terminal do RStudio e execute:\nquarto install tinytex\n\n\n\n\nGit\n\n\n\n\n\n\nDicaInstalar o Git for Windows\n\n\n\n\nAcesse git-scm.com e clique em Download for Windows.\nApós o download, execute o instalador.\nMantenha as configurações padrão sugeridas. Na janela Adjusting the name of the initial branch, marque Override the default branch name for new repositories e informe main.\nClique em Next nas janelas restantes e conclua a instalação. Este instalador também pode ser usado para atualizar o Git quando o comando da seção anterior não funcionar.",
+    "crumbs": [
+      "Ambiente computacional"
+    ]
+  },
+  {
+    "objectID": "ambiente_computacional.html#sec-github",
+    "href": "ambiente_computacional.html#sec-github",
+    "title": "Preparação do ambiente computacional",
+    "section": "Conta GitHub",
+    "text": "Conta GitHub\nCaso ainda não tenha uma conta, acesse github.com, clique em Sign up, conclua o cadastro e confirme seu e-mail. Use uma conta individual que você possa manter durante toda a disciplina.",
+    "crumbs": [
+      "Ambiente computacional"
+    ]
+  },
+  {
+    "objectID": "ambiente_computacional.html#sec-configurar-git",
+    "href": "ambiente_computacional.html#sec-configurar-git",
+    "title": "Preparação do ambiente computacional",
+    "section": "Verificar e configurar o Git",
+    "text": "Verificar e configurar o Git\nAbra o Git Bash, disponível no menu Iniciar após a instalação do Git, e verifique o nome e o e-mail que o Git usará no histórico de seus commits:\ngit config --global --get user.name\ngit config --global --get user.email\n\n\n\n\n\n\nDicaJá há uma identidade configurada?\n\n\n\nSe os dois comandos exibirem seu nome e um e-mail associado à conta do GitHub que você usará na disciplina, não altere nada. Continue para a seção Git Bash como terminal do RStudio.\n\n\nSe algum comando não exibir um valor, ou se precisar usar outra identidade, configure o nome e o e-mail:\ngit config --global user.name \"Seu Nome\"\ngit config --global user.email \"seuemail@exemplo.com\"\nUse um e-mail associado à conta do GitHub que você utilizará na disciplina.",
+    "crumbs": [
+      "Ambiente computacional"
+    ]
+  },
+  {
+    "objectID": "ambiente_computacional.html#sec-git-bash",
+    "href": "ambiente_computacional.html#sec-git-bash",
+    "title": "Preparação do ambiente computacional",
+    "section": "Git Bash como terminal do RStudio",
+    "text": "Git Bash como terminal do RStudio\nOs comandos Git desta disciplina serão executados no Terminal do RStudio usando Git Bash. Depois de instalar o Git for Windows, o Git Bash pode já estar selecionado no RStudio, mas isso depende das configurações do seu computador. Verifique antes de alterar qualquer opção:\n\nAbra RStudio → Tools → Global Options → Terminal.\nEm New terminals open with, verifique a opção exibida.\nSe já estiver selecionado Git Bash, não altere nada. Caso esteja selecionado PowerShell ou outra opção, escolha Git Bash.\nConfirme a configuração e abra um novo terminal no RStudio.",
+    "crumbs": [
+      "Ambiente computacional"
+    ]
+  },
+  {
+    "objectID": "ambiente_computacional.html#sec-validacao",
+    "href": "ambiente_computacional.html#sec-validacao",
+    "title": "Preparação do ambiente computacional",
+    "section": "Verificação do ambiente",
+    "text": "Verificação do ambiente\nAntes da primeira aula, confirme que você consegue:\n\nAbrir R e RStudio.\nAbrir o terminal do RStudio e executar:\nquarto --version\ngit --version\nConfirmar que seu nome e e-mail do Git estão configurados conforme a seção anterior.\nApós concluir o tutorial de Git e GitHub, criar seu repositório individual público, abri-lo como Projeto RStudio, confirmar que o Terminal usa Git Bash, editar arquivos e usar git status, git add, git commit e git push para enviá-los ao GitHub.\nSalvar a URL do seu repositório.",
+    "crumbs": [
+      "Ambiente computacional"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Métodos Quantitativos Aplicados à Administração - 2026/2",
+    "section": "",
+    "text": "Esta disciplina objetiva aprofundar a formação do estudante em Ciência de Dados aplicada à Administração, capacitando-o a desenvolver análises reproduzíveis em ambiente computacional moderno, com uso de métodos introdutórios de modelagem estatística e preditiva para apoiar decisões.\nRecomenda-se fortemente que os alunos matriculados na disciplina acessem a página Ambiente computacional para criar as contas, instalar e configurar os programas necessários em seus computadores pessoais para não ficarem limitados apenas ao laboratório de informática.",
+    "crumbs": [
+      "Início"
+    ]
+  },
+  {
+    "objectID": "index.html#bem-vindo-à-disciplina",
+    "href": "index.html#bem-vindo-à-disciplina",
+    "title": "Métodos Quantitativos Aplicados à Administração - 2026/2",
+    "section": "",
+    "text": "Esta disciplina objetiva aprofundar a formação do estudante em Ciência de Dados aplicada à Administração, capacitando-o a desenvolver análises reproduzíveis em ambiente computacional moderno, com uso de métodos introdutórios de modelagem estatística e preditiva para apoiar decisões.\nRecomenda-se fortemente que os alunos matriculados na disciplina acessem a página Ambiente computacional para criar as contas, instalar e configurar os programas necessários em seus computadores pessoais para não ficarem limitados apenas ao laboratório de informática.",
+    "crumbs": [
+      "Início"
+    ]
+  },
+  {
+    "objectID": "index.html#informações-gerais",
+    "href": "index.html#informações-gerais",
+    "title": "Métodos Quantitativos Aplicados à Administração - 2026/2",
+    "section": "Informações gerais",
+    "text": "Informações gerais\n\nProfessor: Prof. Dr. Washington Santos da Silva\nE-mail: washington.silva@ifmg.edu.br\nHorário de aula: Quinta-Feira (20:30-22:20) e Sexta-Feira (18:40 - 20:20)\nLocal: Laboratório de Redes (LAR), 1 andar, Bloco B.",
+    "crumbs": [
+      "Início"
+    ]
+  },
+  {
+    "objectID": "index.html#conteúdo",
+    "href": "index.html#conteúdo",
+    "title": "Métodos Quantitativos Aplicados à Administração - 2026/2",
+    "section": "Conteúdo",
+    "text": "Conteúdo\nUse este site como guia da disciplina:\n\nAmbiente computacional: contas, programas e configurações necessárias antes da primeira aula.\nPrograma da Disciplina: objetivos, ementa, bibliografia e planejamento completo.\nCronograma: slides, arquivos de dados.",
+    "crumbs": [
+      "Início"
+    ]
+  }
+]

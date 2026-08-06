@@ -1,0 +1,207 @@
+---
+lang: pt-BR
+title: "Programa da Disciplina"
+subtitle: "Métodos Quantitativos Aplicados à Administração 2026/2 <br> Bacharelado em Administração"
+author: "Prof. Dr. Washington S. da Silva"
+---
+
+
+## Objetivo Geral 
+
+Aprofundar a formação do estudante em Ciência de Dados aplicada à 
+Administração, capacitando-o a desenvolver análises reproduzíveis em 
+ambiente computacional moderno, com uso de métodos introdutórios de 
+modelagem estatística e preditiva e para apoiar decisões.
+
+
+
+
+## Objetivos Específicos
+
+- Consolidar o uso da linguagem R, RStudio, Git/GitHub e do sistema 
+Quarto como suporte à realização de análises reproduzíveis aplicadas a 
+problemas da Administração.
+
+- Capacitar o estudante a elaborar relatórios quato analíticos curtos, 
+integrando dados, código, visualizações, interpretação e recomendações.
+
+- Consolidar os procedimentos de análise exploratória de dados 
+numérica e gráfica.
+
+- Apresentar procedimentos introdutórias de inferência estatística, 
+incluindo comparação entre grupos.
+
+- Introduzir a regressão linear como ferramenta para descrição de 
+relações entre variáveis, apoio à previsão e controle estatístico de 
+fatores observáveis.
+
+- Introduizir modelos de previsão de séries temporais como ferramenta 
+de apoio à decisão.
+
+- Capacitar o estudante a construir, interpretar e comparar modelos 
+de aprendizagem supervisionados e não supervisionados introdutórios, 
+utilizando medidas simples de desempenho e procedimentos básicos de validação.
+
+
+
+
+## Ementa
+
+Ambiente computacional: R, RStudio, Git, GitHub e Quarto. Análise Exploratória de Dados: 
+Numérica e Gráfica. Modelagem Estatística Básica. Regressão Linear. Modelos de 
+Previsão de Séries Temporais. Fundamentos de aprendizagem supervisionada e 
+não supervisionada.
+
+
+
+
+## Bibliografia Básica
+
+IRIZARRY, Rafael A. **Introduction to Data Science: Statistics and Prediction Algorithms Through Case Studies**. 
+2nd. ed. CRC Press, 2025. Disponível em: 
+[Introduction to Data Science: Statistics and Prediction Algorithms Through Case Studie](https://rafalab.dfci.harvard.edu/dsbook-part-2/){target="_blank"}
+
+IRIZARRY, Rafael A. **Introduction to Data Science: Data Wrangling and Visualization with R**. 
+2nd. ed. CRC Press, 2025. Disponível em: 
+[Introduction to Data Science: Data Wrangling and Visualization with R](https://rafalab.dfci.harvard.edu/dsbook-part-1/){target="_blank"}
+
+HYNDMAN, Rob J.; ATHANASOPOULOS, George. 
+**Forecasting: Principles and Practice**. 3rd. ed. Melbourne: OTexts, 2021. 
+Disponível em: 
+[Forecasting: Principles and Practice](https://otexts.com/fpp3/){target="_blank"}
+
+
+
+
+## Bibliografia Complementar
+
+WICKHAM, Hadley; ÇETINKAYA-RUNDEL, Mine; GROLEMUND, Garrett. 
+**R for Data Science: Import, Tidy, Transform, Visualize, and Model Data**. 
+2nd. ed. 2023. O’Reilly Media, Inc. Disponível em: 
+[R for Data Science](https://r4ds.hadley.nz){target="_blank"}. 
+Tradução em Português disponível em: 
+[R para Ciência de Dados](https://cienciadedatos.github.io/pt-r4ds/){target="_blank"}.
+
+SILVA, Washington Santos da. **Introdução à Ciência de Dados para Administração**. 2026. 
+Livro digital em desenvolvimento. Disponível em: 
+[https://washingtonsilva.github.io/livro_icd_adm_bacharelado/](https://washingtonsilva.github.io/livro_icd_adm_bacharelado/){target="_blank"}.
+
+ISMAY, Chester; KIM, Albert Y. **Statistical Inference via Data Science: A ModernDive into R and the Tidyverse**. 
+Boca Raton: CRC Press, 2021.
+
+TRIOLA, Mário F. **Introdução à Estatística**. 10 edição. Rio de Janeiro: 
+LTC, 2008. Disponível na biblioteca do campus.
+
+DEVORE, J. L. **Probabilidade e Estatística para Engenharia e Ciências**. 
+São Paulo: Thomson, 2006. Disponível na biblioteca do campus.
+
+
+
+
+**Tutoriais Online:**
+
+[RStudio: Ambiente de Desenvolvimento Integrado para a Linguagem R](https://washingtonsilva.github.io/tutorials/rstudio/){target="_blank"}
+
+[Introdução prática à linguagem R com o tidyverse](https://washingtonsilva.github.io/tutorials/r-tidyverse/){target="_blank"}
+
+[Controle de Versão com Git e GitHub](https://washingtonsilva.github.io/tutorials/git/){target="_blank"}
+
+[Quarto: Um Sistema de Publicação Técnica e Científica](https://washingtonsilva.github.io/tutorials/quarto/){target="_blank"}
+
+[Documentação do Sistema Quarto](https://quarto.org/docs/guide/){target="_blank"}
+
+
+
+
+## Avaliação
+
+O planejamento da distribuição dos pontos referentes às avaliações 
+será realizado da seguinte forma:
+
+- Avaliação 1 (33 pontos) - Atividades práticas semanais
+
+- Avaliação 2 (33 pontos) - Exame intermediário
+
+- Avaliação 3 (34 pontos) - Exame final
+
+Para aprovação, é necessária a obtenção de pelo menos 60 pontos. Esse 
+planejamento poderá alterado conforme o rendimento da turma.
+
+
+
+## Conteúdo Programático
+
+- Ambiente Computacional: R, RStudio, Git, GitHub e Quarto
+- Análise Exploratória de Dados
+- Modelagem Estatística Básica
+- Regressão Linear 
+- Regressão Linear 
+- Modelos de Previsão de Séries Temporais
+- Fundamentos de aprendizagem supervisionada e não supervisionada
+
+
+
+
+## Recursos Didáticos e Materiais de Estudo
+
+Entre os recursos didáticos utilizados na disciplina estão:
+
+- **Materiais Primários para Estudo**:
+
+  - Bibliografia recomendada.
+  
+  - Slides e notas de aula.
+
+- **Ambientes**:
+
+  - **Site da disciplina** com links para slides, dados, bibliografia, entre outros.
+  - **Sistema Acadêmico (SUAP) e GitHub** para envio de atividades avaliativas.
+
+
+
+## Metodologia de Ensino
+
+A disciplina será conduzida em formato *hands-on*, com ênfase em
+aprendizagem ativa e na resolução de problemas aplicados à Administração.
+As atividades serão organizadas de modo que os estudantes compreendam e pratiquem 
+sistematicamente etapas essenciais de projetos de análise quantitativa desde 
+a estruturação de um projeto, preparação dos dados, exploração, visualização, 
+modelagem, interpretação e comunicação dos resultados. 
+
+
+
+
+## Plano de Aulas
+
+O cronograma a seguir é apenas um planejamento, portanto, pode ser 
+alterado conforme o andamento da disciplina .
+
+
+| Semana | Período       | Tópico da semana                              |
+|--------|---------------|------------------------------------------------|
+| 1      | 06/08 – 07/08 | Apresentação da Disciplina                     |
+| 2      | 13/08 – 14/08 | Ambiente Computacional                         |
+| 3      | 20/08 – 21/08 | Ambiente Computacional                         |
+| 4      | 27/08 – 28/08 | Ambiente Computacional                         |
+| 5      | 03/09 – 04/09 | Ambiente Computacional                         |
+| 6      | 10/09 – 11/09 | Análise Exploratória de Dados                  |
+| 7      | 17/09 – 18/09 | Análise Exploratória de Dados                  |
+| 8      | 24/09 – 25/09 | Análise Exploratória de Dados                  |
+| 9      | 01/10 – 02/10 | Avaliação 2                                    |
+| 10     | 08/10 – 09/10 | Modelagem Estatística Básica                   |
+| 11     | 22/10 – 23/10 | Modelagem Estatística Básica                   |
+| 12     | x – 30/10 | Regressão Linear                               |
+| 13     | 05/11 – 06/11 | Regressão Linear                               |
+| 14     | 12/11 – 13/11 | Modelos de Previsão de Séries Temporais        |
+| 15     | 19/06 – x     | Modelos de Previsão de Séries Temporais        |
+| 16     | 26/11 – 27/11 | Fundamentos de aprendizagem supervisionada e não supervisionada |
+| 17     | 03/12 – 04/12 | Fundamentos de aprendizagem supervisionada e não supervisionada |
+| 18     | 10/12 – 11/12 | Avaliação 3                                    |
+| 19     | 17/12 – 18/12 | Encerramento                                   | 
+
+
+
+
+## Recuperação
+
+Conforme o regulamento dos cursos de graduação do IFMG.
