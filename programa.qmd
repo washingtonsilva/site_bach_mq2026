@@ -8,10 +8,9 @@ author: "Prof. Dr. Washington S. da Silva"
 
 ## Objetivo Geral 
 
-Aprofundar a formação do estudante em Ciência de Dados aplicada à 
-Administração, capacitando-o a desenvolver análises reproduzíveis em 
-ambiente computacional moderno, com uso de métodos introdutórios de 
-modelagem estatística e preditiva e para apoiar decisões.
+Aprofundar a formação iniciada na disciplina obrigatória 
+[Introdução à Ciência de Dados](https://washingtonsilva.github.io/site_bach_icd2026/){target="_blank"}, capacitando-o a desenvolver análises quantitativas reproduzíveis em ambiente computacional moderno, 
+com uso de métodos introdutórios de modelagem estatística e preditiva para apoiar decisões.
 
 
 
@@ -22,9 +21,6 @@ modelagem estatística e preditiva e para apoiar decisões.
 Quarto como suporte à realização de análises reproduzíveis aplicadas a 
 problemas da Administração.
 
-- Capacitar o estudante a elaborar relatórios quato analíticos curtos, 
-integrando dados, código, visualizações, interpretação e recomendações.
-
 - Consolidar os procedimentos de análise exploratória de dados 
 numérica e gráfica.
 
@@ -32,8 +28,7 @@ numérica e gráfica.
 incluindo comparação entre grupos.
 
 - Introduzir a regressão linear como ferramenta para descrição de 
-relações entre variáveis, apoio à previsão e controle estatístico de 
-fatores observáveis.
+relações entre variáveis e previsão.
 
 - Introduizir modelos de previsão de séries temporais como ferramenta 
 de apoio à decisão.
@@ -61,10 +56,6 @@ IRIZARRY, Rafael A. **Introduction to Data Science: Statistics and Prediction Al
 2nd. ed. CRC Press, 2025. Disponível em: 
 [Introduction to Data Science: Statistics and Prediction Algorithms Through Case Studie](https://rafalab.dfci.harvard.edu/dsbook-part-2/){target="_blank"}
 
-IRIZARRY, Rafael A. **Introduction to Data Science: Data Wrangling and Visualization with R**. 
-2nd. ed. CRC Press, 2025. Disponível em: 
-[Introduction to Data Science: Data Wrangling and Visualization with R](https://rafalab.dfci.harvard.edu/dsbook-part-1/){target="_blank"}
-
 HYNDMAN, Rob J.; ATHANASOPOULOS, George. 
 **Forecasting: Principles and Practice**. 3rd. ed. Melbourne: OTexts, 2021. 
 Disponível em: 
@@ -74,6 +65,16 @@ Disponível em:
 
 
 ## Bibliografia Complementar
+
+TRIOLA, Mário F. **Introdução à Estatística**. 10 edição. Rio de Janeiro: 
+LTC, 2008. Disponível na biblioteca do campus.
+
+DEVORE, J. L. **Probabilidade e Estatística para Engenharia e Ciências**. 
+São Paulo: Thomson, 2006. Disponível na biblioteca do campus.
+
+IRIZARRY, Rafael A. **Introduction to Data Science: Data Wrangling and Visualization with R**. 
+2nd. ed. CRC Press, 2025. Disponível em: 
+[Introduction to Data Science: Data Wrangling and Visualization with R](https://rafalab.dfci.harvard.edu/dsbook-part-1/){target="_blank"}
 
 WICKHAM, Hadley; ÇETINKAYA-RUNDEL, Mine; GROLEMUND, Garrett. 
 **R for Data Science: Import, Tidy, Transform, Visualize, and Model Data**. 
@@ -86,14 +87,7 @@ SILVA, Washington Santos da. **Introdução à Ciência de Dados para Administra
 Livro digital em desenvolvimento. Disponível em: 
 [https://washingtonsilva.github.io/livro_icd_adm_bacharelado/](https://washingtonsilva.github.io/livro_icd_adm_bacharelado/){target="_blank"}.
 
-ISMAY, Chester; KIM, Albert Y. **Statistical Inference via Data Science: A ModernDive into R and the Tidyverse**. 
-Boca Raton: CRC Press, 2021.
-
-TRIOLA, Mário F. **Introdução à Estatística**. 10 edição. Rio de Janeiro: 
-LTC, 2008. Disponível na biblioteca do campus.
-
-DEVORE, J. L. **Probabilidade e Estatística para Engenharia e Ciências**. 
-São Paulo: Thomson, 2006. Disponível na biblioteca do campus.
+ISMAY, Chester; KIM, Albert Y. **Statistical Inference via Data Science: A ModernDive into R and the Tidyverse**. 2 nd. ed. CRC Press, 2022. Disponíve em: [https://moderndive.com/v2/](https://moderndive.com/v2/){target="_blank"}
 
 
 
