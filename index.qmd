@@ -30,7 +30,6 @@ para não ficarem limitados apenas às atividades no laboratório
 Use este site como guia da disciplina:
 
 - [Ambiente computacional](ambiente_computacional.qmd): contas, programas e configurações
-  necessárias antes da primeira aula.
-- [Programa da Disciplina](programa.qmd): objetivos, ementa, bibliografia e
-  planejamento completo.
+  necessárias para instalar o ambiente computacional em um computador pessoal.
+- [Programa da Disciplina](programa.qmd): objetivos, bibliografia, plano de aulas etc.
 - [Cronograma](cronograma.qmd): slides, arquivos de dados.
