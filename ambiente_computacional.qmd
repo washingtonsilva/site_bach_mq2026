@@ -11,16 +11,6 @@ computador pessoal para as atividades da disciplina. Os computadores
 do Laboratório usado na disciplina já possuem os programas 
 necessários instalados.
 
-::: {.callout-note icon="false"}
-## Plataforma adotada
-
-As etapas detalhadas desta página foram preparadas para **Windows**.
-Usuários de macOS ou Linux devem utilizar os instaladores disponíveis nas
-páginas oficiais indicadas nas seções de [R](#sec-r),
-[RStudio](#sec-rstudio), [Quarto](#sec-quarto) e [Git](#sec-git).
-Nesses sistemas, use o terminal padrão em vez do Git Bash. 
-:::
-
 
 1. Caso não tenha, crie uma conta gratuita no [GitHub](#sec-github).
 
@@ -31,7 +21,7 @@ Nesses sistemas, use o terminal padrão em vez do Git Bash.
    [Git Bash como terminal do RStudio](#sec-git-bash). Ajuste apenas o que for
    necessário.
 
-4. Após concluir a instalação e a configuração, siga os tutoriais básicos 
+4. Após concluir a instalação e a configuração, siga os tutoriais online 
    indicados no [Programa da Disciplina](programa.qmd), começando por 
    **R e tidyverse**.
 
@@ -224,3 +214,15 @@ Antes da primeira aula, confirme que você consegue:
    `git push` para enviá-los ao GitHub.
 
 5. Salvar a URL do seu repositório.
+
+
+
+::: {.callout-note icon="false"}
+## Observação
+
+As etapas detalhadas desta página foram preparadas para **Windows**.
+Usuários de macOS ou Linux devem utilizar os instaladores disponíveis nas
+páginas oficiais indicadas nas seções de [R](#sec-r),
+[RStudio](#sec-rstudio), [Quarto](#sec-quarto) e [Git](#sec-git).
+Nesses sistemas, use o terminal padrão em vez do Git Bash. 
+:::

@@ -11,10 +11,10 @@ Administração, capacitando-o a desenvolver análises reproduzíveis em
 ambiente computacional moderno, com uso de métodos introdutórios de 
 modelagem estatística e preditiva para apoiar decisões.
 
-Recomenda-se fortemente que os alunos matriculados na disciplina acessem a página
+Recomenda-se que os alunos matriculados acessem a página 
 [Ambiente computacional](ambiente_computacional.qmd) para criar as contas,
-instalar e configurar os programas necessários em seus computadores pessoais para 
-não ficarem limitados apenas ao laboratório de informática.
+instalar e configurar os programas necessários em seus computadores pessoais, 
+para não ficarem limitados apenas às atividades no laboratório
 
 
 ## Informações gerais

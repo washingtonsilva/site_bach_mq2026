@@ -134,7 +134,7 @@
     "href": "ambiente_computacional.html",
     "title": "Preparação do ambiente computacional",
     "section": "",
-    "text": "Conclua este roteiro de instalação e configuração para preparar o seu computador pessoal para as atividades da disciplina. Os computadores do Laboratório usado na disciplina já possuem os programas necessários instalados.\n\n\n\n\n\n\nNotaPlataforma adotada\n\n\n\nAs etapas detalhadas desta página foram preparadas para Windows. Usuários de macOS ou Linux devem utilizar os instaladores disponíveis nas páginas oficiais indicadas nas seções de R, RStudio, Quarto e Git. Nesses sistemas, use o terminal padrão em vez do Git Bash.\n\n\n\nCaso não tenha, crie uma conta gratuita no GitHub.\nInstale R 4.6.1 e atualize RStudio, Quarto e Git.\nVerifique a identidade configurada no Git e o Git Bash como terminal do RStudio. Ajuste apenas o que for necessário.\nApós concluir a instalação e a configuração, siga os tutoriais básicos indicados no Programa da Disciplina, começando por R e tidyverse.\nDepois de concluir o tutorial de Git e GitHub, retorne a esta página e faça a verificação final do ambiente.\n\n\n\n\n\n\n\nNotaRepositório público\n\n\n\nNão envie senhas, chaves de acesso, dados pessoais de terceiros ou dados restritos ao repositório. Use apenas materiais autorizados para a disciplina.",
+    "text": "Conclua este roteiro de instalação e configuração para preparar o seu computador pessoal para as atividades da disciplina. Os computadores do Laboratório usado na disciplina já possuem os programas necessários instalados.\n\nCaso não tenha, crie uma conta gratuita no GitHub.\nInstale R 4.6.1 e atualize RStudio, Quarto e Git.\nVerifique a identidade configurada no Git e o Git Bash como terminal do RStudio. Ajuste apenas o que for necessário.\nApós concluir a instalação e a configuração, siga os tutoriais online indicados no Programa da Disciplina, começando por R e tidyverse.\nDepois de concluir o tutorial de Git e GitHub, retorne a esta página e faça a verificação final do ambiente.\n\n\n\n\n\n\n\nNotaRepositório público\n\n\n\nNão envie senhas, chaves de acesso, dados pessoais de terceiros ou dados restritos ao repositório. Use apenas materiais autorizados para a disciplina.",
     "crumbs": [
       "Ambiente computacional"
     ]
@@ -144,7 +144,7 @@
     "href": "ambiente_computacional.html#sec-preparacao",
     "title": "Preparação do ambiente computacional",
     "section": "",
-    "text": "Conclua este roteiro de instalação e configuração para preparar o seu computador pessoal para as atividades da disciplina. Os computadores do Laboratório usado na disciplina já possuem os programas necessários instalados.\n\n\n\n\n\n\nNotaPlataforma adotada\n\n\n\nAs etapas detalhadas desta página foram preparadas para Windows. Usuários de macOS ou Linux devem utilizar os instaladores disponíveis nas páginas oficiais indicadas nas seções de R, RStudio, Quarto e Git. Nesses sistemas, use o terminal padrão em vez do Git Bash.\n\n\n\nCaso não tenha, crie uma conta gratuita no GitHub.\nInstale R 4.6.1 e atualize RStudio, Quarto e Git.\nVerifique a identidade configurada no Git e o Git Bash como terminal do RStudio. Ajuste apenas o que for necessário.\nApós concluir a instalação e a configuração, siga os tutoriais básicos indicados no Programa da Disciplina, começando por R e tidyverse.\nDepois de concluir o tutorial de Git e GitHub, retorne a esta página e faça a verificação final do ambiente.\n\n\n\n\n\n\n\nNotaRepositório público\n\n\n\nNão envie senhas, chaves de acesso, dados pessoais de terceiros ou dados restritos ao repositório. Use apenas materiais autorizados para a disciplina.",
+    "text": "Conclua este roteiro de instalação e configuração para preparar o seu computador pessoal para as atividades da disciplina. Os computadores do Laboratório usado na disciplina já possuem os programas necessários instalados.\n\nCaso não tenha, crie uma conta gratuita no GitHub.\nInstale R 4.6.1 e atualize RStudio, Quarto e Git.\nVerifique a identidade configurada no Git e o Git Bash como terminal do RStudio. Ajuste apenas o que for necessário.\nApós concluir a instalação e a configuração, siga os tutoriais online indicados no Programa da Disciplina, começando por R e tidyverse.\nDepois de concluir o tutorial de Git e GitHub, retorne a esta página e faça a verificação final do ambiente.\n\n\n\n\n\n\n\nNotaRepositório público\n\n\n\nNão envie senhas, chaves de acesso, dados pessoais de terceiros ou dados restritos ao repositório. Use apenas materiais autorizados para a disciplina.",
     "crumbs": [
       "Ambiente computacional"
     ]
@@ -194,7 +194,7 @@
     "href": "ambiente_computacional.html#sec-validacao",
     "title": "Preparação do ambiente computacional",
     "section": "Verificação do ambiente",
-    "text": "Verificação do ambiente\nAntes da primeira aula, confirme que você consegue:\n\nAbrir R e RStudio.\nAbrir o terminal do RStudio e executar:\nquarto --version\ngit --version\nConfirmar que seu nome e e-mail do Git estão configurados conforme a seção anterior.\nApós concluir o tutorial de Git e GitHub, criar seu repositório individual público, abri-lo como Projeto RStudio, confirmar que o Terminal usa Git Bash, editar arquivos e usar git status, git add, git commit e git push para enviá-los ao GitHub.\nSalvar a URL do seu repositório.",
+    "text": "Verificação do ambiente\nAntes da primeira aula, confirme que você consegue:\n\nAbrir R e RStudio.\nAbrir o terminal do RStudio e executar:\nquarto --version\ngit --version\nConfirmar que seu nome e e-mail do Git estão configurados conforme a seção anterior.\nApós concluir o tutorial de Git e GitHub, criar seu repositório individual público, abri-lo como Projeto RStudio, confirmar que o Terminal usa Git Bash, editar arquivos e usar git status, git add, git commit e git push para enviá-los ao GitHub.\nSalvar a URL do seu repositório.\n\n\n\n\n\n\n\nNotaObservação\n\n\n\nAs etapas detalhadas desta página foram preparadas para Windows. Usuários de macOS ou Linux devem utilizar os instaladores disponíveis nas páginas oficiais indicadas nas seções de R, RStudio, Quarto e Git. Nesses sistemas, use o terminal padrão em vez do Git Bash.",
     "crumbs": [
       "Ambiente computacional"
     ]
@@ -204,7 +204,7 @@
     "href": "index.html",
     "title": "Métodos Quantitativos Aplicados à Administração - 2026/2",
     "section": "",
-    "text": "Esta disciplina objetiva aprofundar a formação do estudante em Ciência de Dados aplicada à Administração, capacitando-o a desenvolver análises reproduzíveis em ambiente computacional moderno, com uso de métodos introdutórios de modelagem estatística e preditiva para apoiar decisões.\nRecomenda-se fortemente que os alunos matriculados na disciplina acessem a página Ambiente computacional para criar as contas, instalar e configurar os programas necessários em seus computadores pessoais para não ficarem limitados apenas ao laboratório de informática.",
+    "text": "Esta disciplina objetiva aprofundar a formação do estudante em Ciência de Dados aplicada à Administração, capacitando-o a desenvolver análises reproduzíveis em ambiente computacional moderno, com uso de métodos introdutórios de modelagem estatística e preditiva para apoiar decisões.\nRecomenda-se que os alunos matriculados acessem a página Ambiente computacional para criar as contas, instalar e configurar os programas necessários em seus computadores pessoais, para não ficarem limitados apenas às atividades no laboratório",
     "crumbs": [
       "Início"
     ]
@@ -214,7 +214,7 @@
     "href": "index.html#bem-vindo-à-disciplina",
     "title": "Métodos Quantitativos Aplicados à Administração - 2026/2",
     "section": "",
-    "text": "Esta disciplina objetiva aprofundar a formação do estudante em Ciência de Dados aplicada à Administração, capacitando-o a desenvolver análises reproduzíveis em ambiente computacional moderno, com uso de métodos introdutórios de modelagem estatística e preditiva para apoiar decisões.\nRecomenda-se fortemente que os alunos matriculados na disciplina acessem a página Ambiente computacional para criar as contas, instalar e configurar os programas necessários em seus computadores pessoais para não ficarem limitados apenas ao laboratório de informática.",
+    "text": "Esta disciplina objetiva aprofundar a formação do estudante em Ciência de Dados aplicada à Administração, capacitando-o a desenvolver análises reproduzíveis em ambiente computacional moderno, com uso de métodos introdutórios de modelagem estatística e preditiva para apoiar decisões.\nRecomenda-se que os alunos matriculados acessem a página Ambiente computacional para criar as contas, instalar e configurar os programas necessários em seus computadores pessoais, para não ficarem limitados apenas às atividades no laboratório",
     "crumbs": [
       "Início"
     ]
