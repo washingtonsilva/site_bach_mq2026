@@ -3,8 +3,8 @@ title: "Cronograma"
 lang: pt-BR
 ---
 
-Aqui estão o cronograma e os materiais de cada aula, como slides, dados e
-leituras.
+Aqui estão o cronograma e os materiais de cada aula, como slides, 
+arquivos de dados, atividades práticas e avaliações.
 
 
 ::: {.callout-tip icon="false"}
@@ -26,7 +26,9 @@ Os slides abrem em uma nova aba do navegador.
 
 
 
-# Semana 1 (06/08/26)
+# Semana 1 (06/08 - 07/08)
 
 - **Slides:**
+
+  - [Slides Semana 1](slides/01-semana.html){target="_blank"}
 
