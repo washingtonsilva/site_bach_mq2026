@@ -128,8 +128,7 @@ planejamento poderá alterado conforme o rendimento da turma.
 - Ambiente Computacional: R, RStudio, Git, GitHub e Quarto
 - Análise Exploratória de Dados
 - Modelagem Estatística Básica
-- Regressão Linear 
-- Regressão Linear 
+- Regressão Linear
 - Modelos de Previsão de Séries Temporais
 - Fundamentos de aprendizagem supervisionada e não supervisionada
 
@@ -177,17 +176,17 @@ alterado conforme o andamento da disciplina .
 | 2      | 13/08 – 14/08 | Ambiente Computacional                         |
 | 3      | 20/08 – 21/08 | Ambiente Computacional                         |
 | 4      | 27/08 – 28/08 | Ambiente Computacional                         |
-| 5      | 03/09 – 04/09 | Ambiente Computacional                         |
+| 5      | 03/09 – 04/09 | Verificação de prontidão para a Análise Exploratória de Dados |
 | 6      | 10/09 – 11/09 | Análise Exploratória de Dados                  |
 | 7      | 17/09 – 18/09 | Análise Exploratória de Dados                  |
 | 8      | 24/09 – 25/09 | Análise Exploratória de Dados                  |
 | 9      | 01/10 – 02/10 | Avaliação 2                                    |
 | 10     | 08/10 – 09/10 | Modelagem Estatística Básica                   |
 | 11     | 22/10 – 23/10 | Modelagem Estatística Básica                   |
-| 12     | x – 30/10 | Regressão Linear                               |
+| 12     | 29/10 – 30/10 | Regressão Linear                               |
 | 13     | 05/11 – 06/11 | Regressão Linear                               |
 | 14     | 12/11 – 13/11 | Modelos de Previsão de Séries Temporais        |
-| 15     | 19/06 – x     | Modelos de Previsão de Séries Temporais        |
+| 15     | 19/11 – 20/11 | Modelos de Previsão de Séries Temporais        |
 | 16     | 26/11 – 27/11 | Fundamentos de aprendizagem supervisionada e não supervisionada |
 | 17     | 03/12 – 04/12 | Fundamentos de aprendizagem supervisionada e não supervisionada |
 | 18     | 10/12 – 11/12 | Avaliação 3                                    |

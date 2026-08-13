@@ -74,7 +74,7 @@
     "href": "programa.html#conteúdo-programático",
     "title": "Programa da Disciplina",
     "section": "Conteúdo Programático",
-    "text": "Conteúdo Programático\n\nAmbiente Computacional: R, RStudio, Git, GitHub e Quarto\nAnálise Exploratória de Dados\nModelagem Estatística Básica\nRegressão Linear\nRegressão Linear\nModelos de Previsão de Séries Temporais\nFundamentos de aprendizagem supervisionada e não supervisionada",
+    "text": "Conteúdo Programático\n\nAmbiente Computacional: R, RStudio, Git, GitHub e Quarto\nAnálise Exploratória de Dados\nModelagem Estatística Básica\nRegressão Linear\nModelos de Previsão de Séries Temporais\nFundamentos de aprendizagem supervisionada e não supervisionada",
     "crumbs": [
       "Programa da Disciplina"
     ]
@@ -104,7 +104,7 @@
     "href": "programa.html#plano-de-aulas",
     "title": "Programa da Disciplina",
     "section": "Plano de Aulas",
-    "text": "Plano de Aulas\nO cronograma a seguir é apenas um planejamento, portanto, pode ser alterado conforme o andamento da disciplina .\n\n\n\n\n\n\n\n\nSemana\nPeríodo\nTópico da semana\n\n\n\n\n1\n06/08 – 07/08\nApresentação da Disciplina\n\n\n2\n13/08 – 14/08\nAmbiente Computacional\n\n\n3\n20/08 – 21/08\nAmbiente Computacional\n\n\n4\n27/08 – 28/08\nAmbiente Computacional\n\n\n5\n03/09 – 04/09\nAmbiente Computacional\n\n\n6\n10/09 – 11/09\nAnálise Exploratória de Dados\n\n\n7\n17/09 – 18/09\nAnálise Exploratória de Dados\n\n\n8\n24/09 – 25/09\nAnálise Exploratória de Dados\n\n\n9\n01/10 – 02/10\nAvaliação 2\n\n\n10\n08/10 – 09/10\nModelagem Estatística Básica\n\n\n11\n22/10 – 23/10\nModelagem Estatística Básica\n\n\n12\nx – 30/10\nRegressão Linear\n\n\n13\n05/11 – 06/11\nRegressão Linear\n\n\n14\n12/11 – 13/11\nModelos de Previsão de Séries Temporais\n\n\n15\n19/06 – x\nModelos de Previsão de Séries Temporais\n\n\n16\n26/11 – 27/11\nFundamentos de aprendizagem supervisionada e não supervisionada\n\n\n17\n03/12 – 04/12\nFundamentos de aprendizagem supervisionada e não supervisionada\n\n\n18\n10/12 – 11/12\nAvaliação 3\n\n\n19\n17/12 – 18/12\nEncerramento",
+    "text": "Plano de Aulas\nO cronograma a seguir é apenas um planejamento, portanto, pode ser alterado conforme o andamento da disciplina .\n\n\n\n\n\n\n\n\nSemana\nPeríodo\nTópico da semana\n\n\n\n\n1\n06/08 – 07/08\nApresentação da Disciplina\n\n\n2\n13/08 – 14/08\nAmbiente Computacional\n\n\n3\n20/08 – 21/08\nAmbiente Computacional\n\n\n4\n27/08 – 28/08\nAmbiente Computacional\n\n\n5\n03/09 – 04/09\nVerificação de prontidão para a Análise Exploratória de Dados\n\n\n6\n10/09 – 11/09\nAnálise Exploratória de Dados\n\n\n7\n17/09 – 18/09\nAnálise Exploratória de Dados\n\n\n8\n24/09 – 25/09\nAnálise Exploratória de Dados\n\n\n9\n01/10 – 02/10\nAvaliação 2\n\n\n10\n08/10 – 09/10\nModelagem Estatística Básica\n\n\n11\n22/10 – 23/10\nModelagem Estatística Básica\n\n\n12\n29/10 – 30/10\nRegressão Linear\n\n\n13\n05/11 – 06/11\nRegressão Linear\n\n\n14\n12/11 – 13/11\nModelos de Previsão de Séries Temporais\n\n\n15\n19/11 – 20/11\nModelos de Previsão de Séries Temporais\n\n\n16\n26/11 – 27/11\nFundamentos de aprendizagem supervisionada e não supervisionada\n\n\n17\n03/12 – 04/12\nFundamentos de aprendizagem supervisionada e não supervisionada\n\n\n18\n10/12 – 11/12\nAvaliação 3\n\n\n19\n17/12 – 18/12\nEncerramento",
     "crumbs": [
       "Programa da Disciplina"
     ]
@@ -124,7 +124,7 @@
     "href": "cronograma.html",
     "title": "Cronograma",
     "section": "",
-    "text": "Aqui estão o cronograma e os materiais de cada aula, como slides, arquivos de dados, atividades práticas e avaliações.\n\n\n\n\n\n\nDicaComo navegar pelos slides\n\n\n\nOs slides são interativos e foram produzidos em revealjs.\nAo abrir um arquivo de slides, utilize:\n\nSetas (← →): avançar e voltar.\nF: tela cheia.\nO: visão geral dos slides.\nEsc: sair da visão geral.\nEm dispositivos móveis, deslize para os lados.\n\nOs slides abrem em uma nova aba do navegador.\n\n\n\nSemana 1 (06/08 - 07/08)\n\nSlides:\n\nSlides Semana 1",
+    "text": "Aqui estão o cronograma e os materiais de cada aula, como slides, arquivos de dados, atividades práticas e avaliações.\n\n\n\n\n\n\nDicaComo navegar pelos slides\n\n\n\nOs slides são interativos e foram produzidos em revealjs.\nAo abrir um arquivo de slides, utilize:\n\nSetas (← →): avançar e voltar.\nF: tela cheia.\nO: visão geral dos slides.\nEsc: sair da visão geral.\nEm dispositivos móveis, deslize para os lados.\n\nOs slides abrem em uma nova aba do navegador.\n\n\n\nSemana 1 (06/08 - 07/08)\n\nSlides:\n\nSlides Semana 1\n\n\n\n\nSemana 2 (13/08 - 14/08)\n\nSlides:\n\nSlides Semana 2",
     "crumbs": [
       "Cronograma"
     ]
