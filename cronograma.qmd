@@ -46,5 +46,5 @@ Os slides abrem em uma nova aba do navegador.
 
 # Semana 3
 
-  - [Roteiro]()
+  - [Roteiro](slides/roteiro_estudo_dirigido.html){target="_blank"}
 
